@@ -46,4 +46,4 @@ The AI service uses "Reasoning-Enabled" prompts to ensure the roadmaps are not j
 
 *   **Input**: User Dream + Category + Timeline.
 *   **Prompt**: System instructions enforced strict JSON output.
-*   **Post-processing**: The `AiService` injects "Gabby Tips" (hardcoded community wisdom) based on the dreamer's niche to add a human, community-centric touch.
+*   **Post-processing**: The `AiService` injects "Gabby Tips" based on the dreamer's niche to add a human, community-centric touch.
